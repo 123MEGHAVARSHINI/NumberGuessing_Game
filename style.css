@@ -1,0 +1,37 @@
+body
+{
+    background: rgb(171, 207, 53);
+}
+.box
+{
+    height:315px;
+    width:600px;
+    background:rgb(98, 209, 132);
+    text-align: center;
+    margin-left: 450px;
+    margin-top: 170px;
+    border: 7px solid gray;
+}
+h1
+{
+ color:red;
+}
+h3
+{
+color:blue
+}
+h4
+{
+color:green;
+}
+
+#result
+{
+    height:25px;
+    width:fit-content;
+    background:black;
+    margin: auto;
+    margin-top: 25px;
+    color: rgb(234, 115, 36);
+    font-size: large;
+}
